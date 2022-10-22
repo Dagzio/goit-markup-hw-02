@@ -48,6 +48,10 @@ a {
   letter-spacing: 0.02em;
 }
 
+.address-street:hover,
+.address-street:focus,
+.address-contact:hover,
+.address-contact:focus,
 .nav-contact:hover,
 .nav-contact:focus,
 .nav-link:hover,
