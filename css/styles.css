@@ -101,10 +101,8 @@ a {
   background-color: #188ce8;
 }
 /* Особливості */
-.visually-hidden,
 .about-title,
 .team-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
   text-align: center;
